@@ -16,9 +16,11 @@ Vous pouvez vous diviser, vous réunir mais faîtes attention à l'eau qui n'est
 
 ## Captures d’écran
 
-![Début du jeu](Images/start.png)
-![Utilisation d'items](Images/item_use.png)
-![Stockage d'items](Images/item_stock.png)
+![Menu principal du jeu](Images/mainmenu.png)
+![Cinématique d'introduction](Images/gojosplit.png)
+![Premier niveau](Images/lvl1.png)
+![Deuxième niveau](Images/lvl2.png)
+![Troisième niveau](Images/lvl3.png)
 
 ## Contrôles
 
