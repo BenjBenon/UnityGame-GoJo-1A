@@ -30,7 +30,6 @@ Vous pouvez vous diviser, vous réunir mais faîtes attention à l'eau qui n'est
 
 ## Auteurs
 
-Benjamin Benon  
-[LinkedIn](https://www.linkedin.com/in/benjamin-benon-78b495194/)
-Gianni Charles-Nicolaï
+Benjamin Benon [LinkedIn](https://www.linkedin.com/in/benjamin-benon-78b495194/)  
+Gianni Charles-Nicolaï  
 Grégoire Portevin
